@@ -1,12 +1,10 @@
 #include <stdio.h>
 
 /**
- * main - this is the main function
- *
- * Description: a C program that prints with printf
- * return: always 0 (success)
+ * main - prints the phrase with proper grammar,
+ * but the outcome is a piece of art,
+ * Return: 0 if exited properly, non-zero otherwise
  */
-
 int main(void)
 {
 	printf("with proper grammar, but the outcome is a piece of art,\n");
